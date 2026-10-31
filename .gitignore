@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.env*
+.vercel
+
+# Dati personali: restano solo in locale (il repository è pubblico)
+materiali/testi/cv.md
+materiali/prima-dopo/originali/
